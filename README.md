@@ -130,8 +130,3 @@ The current MVP (built on Streamlit) enables users to:
 ## Author
 **Hiten Patil**
 
----
-
-## ⭐ Support the Project
-If GrowEasy inspires you, please ⭐ the repository to support its development!
-
