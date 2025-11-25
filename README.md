@@ -1,6 +1,6 @@
 # GrowEasy – Agentic AI-based SIP Investment Assistant
 
-GrowEasy is an **AI-powered SIP (Systematic Investment Plan) Assistant** designed to help Indian users start and manage investments easily through **WhatsApp or a lightweight mobile app**.  
+GrowEasy is an **AI-powered SIP (Systematic Investment Plan) Assistant** designed to help Indian users start and manage investments easily.  
 The platform reduces the barrier to investing by providing **local-language guidance, goal-based planning, reminders, and progress tracking**.
 
 ---
@@ -13,7 +13,6 @@ A huge portion of India's urban population does not participate in formal invest
 - Difficulty starting with small investment amounts (₹100–₹500)
 
 > GrowEasy solves these challenges using conversational AI and automation.  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -32,7 +31,6 @@ An **Agentic AI SIP Assistant** that:
 | Progress Tracker Agent | Monitors confirmations and tracks milestones |
 
 > Final workflow: **Goal Planning → Monthly Reminder → Payment → Confirmation**  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -49,8 +47,6 @@ An **Agentic AI SIP Assistant** that:
 - Adjusts reminder frequency based on user response
 - Suggests smaller/incremental goals if user frequently misses SIPs
 
-:contentReference[oaicite:3]{index=3}
-
 ---
 
 ## Technology Stack
@@ -62,7 +58,6 @@ An **Agentic AI SIP Assistant** that:
 | Agentic Layer | LLM + LangChain / LangGraph + mfapi.in |
 | Database | Firebase Realtime DB |
 
-:contentReference[oaicite:4]{index=4}
 
 ---
 
@@ -71,8 +66,6 @@ An **Agentic AI SIP Assistant** that:
 - **Only safe/curated SIPs recommended**
 - **Privacy & Consent** — encrypted communication via WhatsApp
 - **Transparent communication** — SIP details clearly shown in user’s local language with disclaimers
-
-:contentReference[oaicite:5]{index=5}
 
 ---
 
