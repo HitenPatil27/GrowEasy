@@ -57,12 +57,26 @@ The current MVP (built on Streamlit) enables users to:
 ---
 
 ## User Flow
-1. Launch the GrowEasy Streamlit App  
-2. Login / Register  
-3. Select Goal, Risk Level & Monthly Income  
-4. SIP recommendations generated automatically  
-5. Chatbot answers queries  
-6. Go to Planner Agent to set SIP schedule  
+1. Launch the GrowEasy Streamlit App
+<img width="1916" height="921" alt="Dashboard" src="https://github.com/user-attachments/assets/d0a72df4-1a67-4f22-b362-7485596babf8" />
+
+2. Login / Register
+<img width="1913" height="912" alt="login" src="https://github.com/user-attachments/assets/6a8637c0-d36a-4ce5-bb17-18145ac5649b" />
+
+3. Select Goal, Risk Level & Monthly Income
+<img width="1913" height="918" alt="user input " src="https://github.com/user-attachments/assets/dfe6ec1f-38e4-43ec-85f1-62c6dde0e755" />
+
+4. SIP recommendations generated automatically
+<img width="1917" height="923" alt="rec_output" src="https://github.com/user-attachments/assets/ba79969a-9040-41ff-af30-c47fa81c0a3f" />
+<img width="1915" height="923" alt="user input_1" src="https://github.com/user-attachments/assets/be13470d-06bd-4049-a324-a2b80648805c" />
+
+5. Chatbot answers queries
+<img width="1897" height="905" alt="ChatBot" src="https://github.com/user-attachments/assets/80824071-70b5-494d-ab11-2c0708ecf7ea" />
+
+6. Go to Planner Agent to set SIP schedule
+<img width="1918" height="912" alt="planer output" src="https://github.com/user-attachments/assets/e90a08e6-1432-451b-a754-348c2aabcf2d" />
+<img width="1913" height="918" alt="planer output1" src="https://github.com/user-attachments/assets/ef11c693-6ae7-412e-ba03-a3e644689b4b" />
+
 7. User can adjust inputs anytime  
 ---
 
